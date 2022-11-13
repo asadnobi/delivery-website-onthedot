@@ -6,15 +6,7 @@
   <div class="main-banner banner2">
     <div class="container">
       <div class="banner-content animated fadeIn">
-        <h1>Express and same day delivery services for your business</h1>
-        <h2>Control your customer experience from store to door.</h2>
-        <a class="btn btn-custom btn-info" href="javascript:void(0)">Sign up now</a>
-      </div>
-      <div class="banner-bubble bubble2 animated fadeIn"></div>
-    </div>
-  </div>
-  <div class="container section-brands">
-    <ul class="brands">
+     
       <li class="brand brand-asos animated fadeIn"></li>
       <li class="brand brand-bloom animated fadeIn"></li>
       <li class="brand brand-lolas animated fadeIn"></li>
@@ -76,20 +68,7 @@
                 <span class="inner">
                   <span class="text">D</span>
                 </span>
-              </span>
-            </div>
-            <h4>Keep them happy</h4>
-            <p>Will shop again if they have a positive shipping experience.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section-enterprise">
-    <span class="enterprise-customer">Ryman, On the dot customer</span>
-    <div class="container-fluid">
-      <div class="section-content">
-        <h1>Enterprise solutions that work seamlessly alongside your business</h1>
+         at work seamlessly alongside your business</h1>
         <p>We understand not every business fits into a mould. Our delivery solutions managers are here to help with even the most complex delivery scenarios.</p>
         <div class="handwriting handwriting-experts"></div>
         <a class="btn btn-custom btn-info" href="javascript:void(0)">Learn more</a>
@@ -129,14 +108,7 @@
         <a class="btn btn-custom btn-info" href="javascript:void(0)">Speak to our sales team</a>
       </div>
       <div class="section-content">
-        <span class="api-icon section-icon"></span>
-        <p>Seamlessly integrate our services by using our API.</p>
-        <a class="btn btn-custom btn-info" href="javascript:void(0)" target="_blank">Get started</a>
-      </div>
-    </div>
-  </div>
-  <div class="section-eco">
-    <div class="container">
+        
       <div class="section-image"></div>
       <div class="section-content">
         <h1>Our commitment to the environment - starts with our fleet</h1>

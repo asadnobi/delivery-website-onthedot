@@ -11,7 +11,6 @@
     <!-- Required CSS -->
     <link rel="stylesheet" href="assets/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-    <link rel="stylesheet" href="assets/dist/css/custom.css">
-    <title>On the dot - Same day delivery from store to door</title>
+     dot - Same day delivery from store to door</title>
   </head>
   <body> 

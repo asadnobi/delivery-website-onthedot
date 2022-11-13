@@ -7,19 +7,7 @@
     <div class="container">
       <div class="section-content animated fadeIn">
         <h1>Same day delivery services for enterprise & big business</h1>
-        <p>A worrying trend across the UK shows half of consumers crave same day delivery and less than a quarter of retailers are offering it.</p>
-        <p>Innovate and lead the pack with On the dot transforming your customer experience all the way to the doorstep. Offering same day delivery allows you to meet your customers needs and keep them coming back time and again.</p>
-        <a href="/contact" class="btn btn-custom btn-info" target="_self">Speak with sales</a>
-      </div>
-      <div class="intro-icon replay"></div>
-    </div>
-  </div>
-  <div class="container section-brands">
-    <ul class="brands">
-      <li class="brand brand-asos animated fadeIn"></li>
-      <li class="brand brand-bloom animated fadeIn"></li>
-      <li class="brand brand-lolas animated fadeIn"></li>
-      <li class="brand brand-currys animated fadeIn"></li>
+        fadeIn"></li>
       <li class="brand brand-wickes animated fadeIn"></li>
     </ul>
   </div>
@@ -70,11 +58,7 @@
     </div>
   </div>
   <div class="section-tech">
-    <h1>Listen to what your customers are saying</h1>
-    <div class="container active">
-      <div class="section-content manual-delivery">
-        <span class="money-icon section-icon"></span>
-        <h6>Higher spend per transaction</h6>
+    <h1
         <p>Average basket value increases by 44% when same day delivery is offered.</p>
       </div>
       <div class="section-content">

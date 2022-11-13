@@ -31,11 +31,7 @@
             <li> - <a href="javascript:void(0)" target="_blank">In the news</a></li>
           </ul>
         </div>
-        <div class="col col-md-3 col-6">
-          <span class="api-icon section-icon"></span>
-          <p>Legal</p>
-          <ul>
-            <li><a href="javascript:void(0)" target="_blank"> - Privacy policy</a></li>
+        <oid(0)" target="_blank"> - Privacy policy</a></li>
             <li><a href="javascript:void(0)" target="_blank"> - Terms & conditions</a></li>
             <li><a href="javascript:void(0)" target="_blank"> - Cookies</a></li>
             <li><a href="javascript:void(0)" target="_blank"> - Modern slavery</a></li>
