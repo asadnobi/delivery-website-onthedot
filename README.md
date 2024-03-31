@@ -23,7 +23,6 @@ The inspiration for FreshFold arose from the desire to transform the traditional
 
 FreshFold is not just a website; it's a commitment to redefine the laundry industry. How does this version resonate with you?
 
-
-![delivery-website-template](https://user-images.githubusercontent.com/24413519/201524708-1ee52d03-2496-4bed-8ad3-8e686021a978.jpg)
-![delivery-website-template-1](https://user-images.githubusercontent.com/24413519/201524709-bff447c6-1980-4189-9433-1e125e352ee3.jpg)
-![delivery-website-template-2](https://user-images.githubusercontent.com/24413519/201524710-3e758799-f325-43d5-bc09-13e030699d96.jpg)
+![laundry-website-template](https://user-images.githubusercontent.com/24413519/201524442-56648da8-3cd1-4d67-b777-b1b2a0724e64.jpg)
+![laundry-website-template-1](https://user-images.githubusercontent.com/24413519/201524445-61d134d7-57f6-4e3c-95b6-73213b4bd831.jpg)
+![laundry-website-template-2](https://user-images.githubusercontent.com/24413519/201524448-f2998c62-352a-44bd-bf90-48e850bcc110.jpg)
